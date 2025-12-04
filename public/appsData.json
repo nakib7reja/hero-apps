@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://logo.svgcdn.com/logos/facebook.png",
+    "title": "Facebook",
+    "companyName": "Meta",
+    "id": 1,
+    "description": "Connect with friends and the world around you on Facebook.",
+    "size": 102400,
+    "reviews": 12000000,
+    "ratingAvg": 4.1,
+    "downloads": 5000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 6000000 }
+    ]
+  },
+  {
+    "image": "https://pngdownload.io/wp-content/uploads/2021/04/instagram-logo-social-media-transparent-png.png",
+    "title": "Instagram",
+    "companyName": "Meta",
+    "id": 2,
+    "description": "Share photos and videos, follow friends, discover trends and explore your interests.",
+    "size": 90700,
+    "reviews": 9000000,
+    "ratingAvg": 4.3,
+    "downloads": 3000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 5400000 }
+    ]
+  },
+  {
+    "image": "https://pngdownload.io/wp-content/uploads/2022/03/whatsapp-logo-png-0.png",
+    "title": "WhatsApp",
+    "companyName": "Meta",
+    "id": 3,
+    "description": "Simple, secure messaging and calling for everyone.",
+    "size": 70000,
+    "reviews": 11000000,
+    "ratingAvg": 4.4,
+    "downloads": 5500,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 2800000 },
+      { "name": "5 star", "count": 7800000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3046/3046120.png",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "id": 4,
+    "description": "Short-form mobile videos — a global video community.",
+    "size": 85000,
+    "reviews": 8000000,
+    "ratingAvg": 4.2,
+    "downloads": 2500,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 4300000 }
+    ]
+  },
+  {
+    "image": "https://pngdownload.io/wp-content/uploads/2025/02/twitter-logo-png-transparent.png",
+    "title": "X",
+    "companyName": "X Corp",
+    "id": 5,
+    "description": "See what’s happening in the world right now — live.",
+    "size": 73000,
+    "reviews": 6000000,
+    "ratingAvg": 4.0,
+    "downloads": 1800,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 1600000 },
+      { "name": "5 star", "count": 2400000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/174/174857.png",
+    "title": "LinkedIn",
+    "companyName": "Microsoft",
+    "id": 6,
+    "description": "Professional networking; connect with colleagues and find jobs.",
+    "size": 78000,
+    "reviews": 4000000,
+    "ratingAvg": 4.1,
+    "downloads": 1000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 2150000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1384/1384063.png",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 7,
+    "description": "Share the moment with friends via snaps and stories.",
+    "size": 65000,
+    "reviews": 5000000,
+    "ratingAvg": 3.9,
+    "downloads": 1500,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 1400000 },
+      { "name": "5 star", "count": 2260000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/733/733547.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "id": 8,
+    "description": "Discover ideas like recipes, home and style inspiration on pinboards.",
+    "size": 72000,
+    "reviews": 3000000,
+    "ratingAvg": 4.0,
+    "downloads": 800,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "5 star", "count": 1830000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111499.png",
+    "title": "Reddit",
+    "companyName": "Reddit, Inc.",
+    "id": 9,
+    "description": "Dive into anything — communities, interests, news and more.",
+    "size": 77000,
+    "reviews": 3500000,
+    "ratingAvg": 4.1,
+    "downloads": 600,
+    "ratings": [
+      { "name": "1 star", "count": 180000 },
+      { "name": "2 star", "count": 130000 },
+      { "name": "3 star", "count": 420000 },
+      { "name": "4 star", "count": 1100000 },
+      { "name": "5 star", "count": 1850000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/174/174883.png",
+    "title": "YouTube",
+    "companyName": "Google",
+    "id": 10,
+    "description": "Watch, share and upload videos — from music to tutorials and vlogs.",
+    "size": 88000,
+    "reviews": 20000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 15000000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111646.png",
+    "title": "Telegram",
+    "companyName": "Telegram Messenger LLP",
+    "id": 11,
+    "description": "Fast and secure messaging, with group chats and channels.",
+    "size": 68000,
+    "reviews": 4500000,
+    "ratingAvg": 4.3,
+    "downloads": 700,
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 2450000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111370.png",
+    "title": "Signal",
+    "companyName": "Signal Foundation",
+    "id": 12,
+    "description": "Private messaging and calling with end-to-end encryption.",
+    "size": 62000,
+    "reviews": 2500000,
+    "ratingAvg": 4.5,
+    "downloads": 300,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 220000 },
+      { "name": "4 star", "count": 600000 },
+      { "name": "5 star", "count": 1600000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111504.png",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 13,
+    "description": "Voice, video and text communication for communities and friends.",
+    "size": 75000,
+    "reviews": 4000000,
+    "ratingAvg": 4.2,
+    "downloads": 500,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1100000 },
+      { "name": "5 star", "count": 2250000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/145/145807.png",
+    "title": "Skype",
+    "companyName": "Microsoft",
+    "id": 14,
+    "description": "Video chat and voice call, instant messaging across devices.",
+    "size": 70000,
+    "reviews": 2000000,
+    "ratingAvg": 4.0,
+    "downloads": 400,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 350000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "5 star", "count": 1400000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111393.png",
+    "title": "WeChat",
+    "companyName": "Tencent",
+    "id": 15,
+    "description": "All-in-one communications: messaging, social, payments, and more.",
+    "size": 87000,
+    "reviews": 3000000,
+    "ratingAvg": 4.1,
+    "downloads": 1000,
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "5 star", "count": 1850000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111432.png",
+    "title": "LINE",
+    "companyName": "LINE Corporation",
+    "id": 16,
+    "description": "Free messaging app with stickers, voice/video calls and timeline posts.",
+    "size": 66000,
+    "reviews": 1800000,
+    "ratingAvg": 4.0,
+    "downloads": 800,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 900000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111425.png",
+    "title": "Viber",
+    "companyName": "Rakuten",
+    "id": 17,
+    "description": "Message, call, and chat with the people you care about.",
+    "size": 65000,
+    "reviews": 1500000,
+    "ratingAvg": 3.9,
+    "downloads": 600,
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 700000 },
+      { "name": "5 star", "count": 350000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111439.png",
+    "title": "Threads",
+    "companyName": "Meta",
+    "id": 18,
+    "description": "Text-sharing community connected to social profiles.",
+    "size": 74000,
+    "reviews": 1000000,
+    "ratingAvg": 3.8,
+    "downloads": 300,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 210000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111461.png",
+    "title": "Periscope",
+    "companyName": "Twitter, Inc.",
+    "id": 19,
+    "description": "Live video streaming and broadcasts.",
+    "size": 82000,
+    "reviews": 800000,
+    "ratingAvg": 3.7,
+    "downloads": 200,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 240000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111406.png",
+    "title": "Tumblr",
+    "companyName": "Automattic",
+    "id": 20,
+    "description": "Microblogging and social networking — share posts, photos and more.",
+    "size": 69000,
+    "reviews": 900000,
+    "ratingAvg": 3.8,
+    "downloads": 150,
+    "ratings": [
+      { "name": "1 star", "count": 90000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 240000 }
+    ]
+  }
+]
