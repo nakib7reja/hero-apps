@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import useApps from '../Hooks/useApps';
 import AppCard from '../components/AppCard/AppCard';
+import EmptyPage from './EmptyPage';
 
 const Apps = () => {
     const [search, setSearch] = useState('')
@@ -11,7 +12,11 @@ const Apps = () => {
     const searchApps = term ?
         apps.filter(app => app.title.toLocaleLowerCase().includes(term)) :
         apps
-    console.log(searchApps)
+    // console.log(searchApps)
+    if (!searchApps.length) {
+        // console.log('kicho nai')
+        return <EmptyPage></EmptyPage>
+    }
 
     return (
         <div className='max-w-[1200px] mx-auto p-5 md:p-10 sm:p-30'>
