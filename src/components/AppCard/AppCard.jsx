@@ -22,9 +22,6 @@ const AppCard = ({ app }) => {
                             <img className='w-4 h-4 mt-1 ' src="https://i.ibb.co.com/B5xBqrV6/icon-ratings.png" alt="" />
                             {ratingAvg}</p>
                     </div>
-                    {/* <div className="card-actions justify-end">
-                    <button className="btn btn-primary">Install</button>
-                </div> */}
                 </div>
             </div>
         </Link>

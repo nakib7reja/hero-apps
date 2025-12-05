@@ -2,20 +2,20 @@ import React, { useState } from 'react';
 import useApps from '../Hooks/useApps';
 import AppCard from '../components/AppCard/AppCard';
 import EmptyPage from './EmptyPage';
+import LoadingSpinner from '../components/LoadingSpinner';
 
 const Apps = () => {
     const [search, setSearch] = useState('')
-    const { apps } = useApps()
-
+    const { apps, loading } = useApps()
+    
     const term = search.trim().toLocaleLowerCase();
-    // console.log(term)
     const searchApps = term ?
         apps.filter(app => app.title.toLocaleLowerCase().includes(term)) :
         apps
     // console.log(searchApps)
-    if (!searchApps.length) {
-        // console.log('kicho nai')
-        return <EmptyPage></EmptyPage>
+
+    if (loading) {
+        return <LoadingSpinner></LoadingSpinner>
     }
 
     return (
@@ -31,6 +31,9 @@ const Apps = () => {
                 </label>
             </div>
             <div className='m-5 grid lg:grid-cols-4 md:grid-cols-2 sm:grid-cols-1 gap-5 md:gap-10 sm:20px mx-auto'>
+                {
+                    searchApps.length === 0 && <EmptyPage></EmptyPage>
+                }
                 {
                     searchApps.map(app => <AppCard key={app.id} app={app}></AppCard>)
                 }
